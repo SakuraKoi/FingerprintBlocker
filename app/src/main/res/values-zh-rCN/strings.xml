@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">禁用指纹</string>
+    <string name="best_wishes">愿每个人都能被这个世界温柔以待</string>
+    <string name="btn_step_1">1. 激活设备管理员</string>
+    <string name="desc_step_1">需要此权限来禁用指纹解锁</string>
+    <string name="btn_step_2">2. 配置定时任务</string>
+    <string name="desc_step_2">在每天的指定时间禁用指纹解锁</string>
+    <string name="btn_remove">移除定时任务 (禁用)</string>
+    <string name="desc_remove">取消所注册的定时任务并停止工作</string>
+    <string name="desc">此应用每天晚上三点半禁用手机的指纹解锁 避免他人在你睡梦中利用你的指纹解锁手机</string>
+    <string name="desc_2">禁用是临时性的, 使用密码或图案解锁一次后指纹将继续工作</string>
+    <string name="btn_disable_admin">禁用设备管理员</string>
+    <string name="desc_disable_admin">在部分厂商固件中, 需要先禁用设备管理员才能卸载此应用</string>
+    <string name="btn_test">锁屏并测试是否有效</string>
+    <string name="toast_admin_enabled">设备管理员已启用</string>
+    <string name="toast_admin_disabled">设备管理员已禁用</string>
+    <string name="best_wishes_2">Best wishes :)</string>
+    <string name="desc_device_admin">此应用在每天的指定时间禁用手机的指纹解锁 避免他人在你睡梦中利用你的指纹解锁手机</string>
+    <string name="toast_task_created">成功注册定时任务</string>
+    <string name="toast_task_removed">成功移除定时任务</string>
+    <string name="toast_try_unlock">请锁定屏幕并在五分钟后尝试指纹解锁</string>
+</resources>

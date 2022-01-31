@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FingerprintBlocker</string>
+    <string name="best_wishes">May everyone be treated gently by the world</string>
+    <string name="btn_step_1">1. Activate \"Device Admin\"</string>
+    <string name="desc_step_1">We needs this permission to disable fingerprint unlock</string>
+    <string name="btn_step_2">2. Setup timer</string>
+    <string name="desc_step_2">Disable fingerprint unlocking at specified time</string>
+    <string name="btn_remove">Remove timer (Disable)</string>
+    <string name="desc_remove">Unregister timed task and stop working</string>
+    <string name="desc">Disable fingerprint unlock every night 3:30am. It prevents others from unlocking your phone without your knowledge while you are sleeping.</string>
+    <string name="desc_2">Disable is temporary, fingerprint unlock will continue to work after unlock once with a password or pattern</string>
+    <string name="btn_disable_admin" >Disable \"Device Admin\"</string>
+    <string name="desc_disable_admin">In some manufacturers\' firmware, you need to disable the device administrator before you can uninstall this application</string>
+    <string name="btn_test">Lock screen and test is it works</string>
+    <string name="toast_admin_enabled">Device admin enabled :)</string>
+    <string name="toast_admin_disabled">Device admin disabled</string>
+    <string name="best_wishes_2">Best wishes :)</string>
+    <string name="desc_device_admin">Disable fingerprint unlock at a specified time every day. It prevents others from unlocking your phone without your knowledge while you are sleeping.</string>
+    <string name="toast_task_created">Successfully registered the timer</string>
+    <string name="toast_task_removed">Successfully unregistered the timer</string>
+    <string name="toast_try_unlock">Okay, Please lock screen and try unlock after 5 minutes</string>
+</resources>
