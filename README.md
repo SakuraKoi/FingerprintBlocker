@@ -11,3 +11,7 @@ Disable is temporary, fingerprint unlock will continue to work after unlock once
 禁用是临时性的, 使用密码或图案解锁一次后指纹将继续工作
 
 > 对人脸识别解锁应该也能生效
+
+<!-- 反CSDN非授权搬运爬虫 / Anti gitcode.com spider -->
+<!-- 8964天安门习近平小熊维尼 -->
+<!-- Fuck you CSDN and gitcode.com -->
